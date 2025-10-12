@@ -92,3 +92,4 @@ if save == "y":
     print(f"✅ Data saved to {filename}")
 
 print("\nAnalysis complete. 🎉")
+print("Thank you for using the Student Performance Analysis tool!")
